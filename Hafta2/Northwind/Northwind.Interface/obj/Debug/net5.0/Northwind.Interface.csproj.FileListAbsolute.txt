@@ -1,0 +1,24 @@
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csprojAssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\refint\Northwind.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll

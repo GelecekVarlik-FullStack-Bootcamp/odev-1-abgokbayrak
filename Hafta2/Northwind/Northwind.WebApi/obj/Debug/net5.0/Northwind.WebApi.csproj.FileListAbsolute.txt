@@ -1,0 +1,58 @@
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.exe
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.deps.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.dev.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\ref\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csprojAssemblyReference.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.Manifest.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.xml
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\scopedcss\bundle\Northwind.WebApi.styles.css
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.RazorTargetAssemblyInfo.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CopyComplete
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\ref\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.genruntimeconfig.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.StaticWebAssets.xml
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.exe
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.deps.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.dev.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.AssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfoInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\scopedcss\bundle\Northwind.WebApi.styles.css
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.Manifest.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.RazorTargetAssemblyInfo.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CopyComplete
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\refint\Northwind.WebApi.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.genruntimeconfig.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\Odev1\Hafta2\Northwind\Northwind.WebApi\obj\Debug\net5.0\ref\Northwind.WebApi.dll
